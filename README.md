@@ -41,3 +41,4 @@ and add to the end of the file:
 0 6 * * * docker container run --rm easybox >/dev/null 2>&1
 ```
 where 0 6 means it runs every morning at 6 am.
+
